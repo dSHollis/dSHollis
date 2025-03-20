@@ -40,7 +40,7 @@ Currently pursuing a Master’s degree in Data Science, focusing on Python, stat
 ---
 
 ## 🔹 Contact Information   
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) 
+🔗 [LinkedIn]() 
 
 ---
 
