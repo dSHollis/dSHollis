@@ -1,6 +1,6 @@
 **NOAA Electronics Technician | Studying Data Science**  
 
-Currently pursuing a Master’s degree in Data Science, focusing on Python, statistics, AI, and data analysis, further enhancing my ability to solve technical challenges through data-driven solutions. Holds a Bachelor’s in Environmental (wildlife) Science and has technical training and experience in electronics from military and federal service. 
+Currently pursuing a Master’s degree in Data Science, focusing on Python, statistics, AI, and data analysis, further enhancing my ability to solve technical challenges through data-driven solutions. I have a Bachelor’s in Environmental (wildlife) Science and has technical training and experience in electronics from military and federal service. 
 
 ---
 
